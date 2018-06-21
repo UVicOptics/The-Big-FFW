@@ -1,9 +1,6 @@
 # The Big FFW
 This system allows for the testing of optical fibres for a fully automated optomechanical test facility. Each fibres are individually tested using the ring test method.
 
-
-
-This is a list of Jupyter notebooks associated with StarNet to apply on SDSS APOGEE data.
  
 They have been tested with python-2.7, some dependencies are not python-3 ready yet.
 
@@ -50,7 +47,7 @@ cd fibreOptics-tester
 
 ![](GUI.jpg)
 
-
+\\
 Below is a description of the built-in layers of the Big FFW:
 
 ![](FFW.jpg)
