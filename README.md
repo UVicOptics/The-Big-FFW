@@ -46,17 +46,32 @@ cd fibreOptics-tester
 # The big FFW GUI:
 
 ![](GUI.jpg)
-
-\\
+.
+.
+.
+.
+.
+.
 Below is a description of the built-in layers of the Big FFW:
 
 ![](FFW.jpg)
+.
+.
+.
+.
+.
+.
+.
 
-
-
-# RAPID
+- FiTS Analyzer
+- Stage Code
+- Camera Code
+- RAPID
 Ring Analyzer Python Interface for ring-test Data (RAPID)
   
+  
+# RAPID
+Ring Analyzer Python Interface for ring-test Data (RAPID)
  
  # Motivation
  Ring test analysis is an essential way of checking efficiency and quality of optical fibers but the process can be very time consuming. By RAPID graphical user interface, you can analyze and visualize the output ring images of the fiber by only inputting the output image of the test.
