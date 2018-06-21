@@ -9,15 +9,13 @@ They have been tested with python-2.7, some dependencies are not python-3 ready 
 
 Required packages:
 
-from Tkinter import *
-import ttk
-
 - matplotlib
 - numpy
 - sys
 - PIL
 - os
 - Tkinter
+- ttk
 - subprocess
 - skimage
 - cv2
@@ -47,8 +45,17 @@ You can then clone this repository:
 git clone https://github.com/UVicOptics/fibreOptics-tester.git
 cd fibreOptics-tester
 ```
+ 
+# The big FFW GUI:
+
+![](GUI.jpg)
+
 
 Below is a description of the built-in layers of the Big FFW:
+
+![](FFW.jpg)
+
+
 
 # RAPID
 Ring Analyzer Python Interface for ring-test Data (RAPID)
@@ -57,10 +64,7 @@ Ring Analyzer Python Interface for ring-test Data (RAPID)
  # Motivation
  Ring test analysis is an essential way of checking efficiency and quality of optical fibers but the process can be very time consuming. By RAPID graphical user interface, you can analyze and visualize the output ring images of the fiber by only inputting the output image of the test.
  
- 
-# An example of the graphical user interface:
 
-![](GUI.jpg)
 
 
 # There are 5 variables in the main page of the interface:
