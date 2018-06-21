@@ -12,7 +12,7 @@ This system allows for the testing of optical fibres for a fully automated optom
  
 # An example of the graphical user interface:
 
-![](Example.jpg)
+![](GUI.jpg)
 
 
 # There are 5 variables in the main page of the interface:
