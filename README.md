@@ -32,6 +32,24 @@ import ttk
 - pipython (for PI controller)
 
 
+All those packages can be installed with pip.
+
+```
+pip install <package>...<package>
+```
+If you have the Python anaconda distribution, you can (except for `vos`) also install the packages not already installed with
+```
+conda install <package>...<package>
+```
+
+You can then clone this repository:
+```
+git clone https://github.com/UVicOptics/fibreOptics-tester.git
+cd fibreOptics-tester
+```
+
+Below is a description of the built-in layers of the Big FFW:
+
 # RAPID
 Ring Analyzer Python Interface for ring-test Data (RAPID)
   
