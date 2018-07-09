@@ -64,7 +64,7 @@ cd The-Big-FFW
 
 ![](Camera1.png)
 
-- PC (with an appropriate operating systemm)
+- PC (with an appropriate operating system)
 - Source of light (ideally an LED)
 - A collimator
   * Thorlab collimator
@@ -76,12 +76,13 @@ cd The-Big-FFW
 
 
 - Multiple mounts and rotating stages
+
 NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper motor drive. Different PI rotation stage with equivalent features can be used.
 
 - PI MicroController
+   * C-863 Mercury Servo Controller
 
 ![](Controller.png)
-  * C-863 Mercury Servo Controller
 
  
 # The big FFW GUI:
@@ -108,6 +109,15 @@ Below is a description of the built-in layers of the Big FFW:
 - Stage Code
 - Camera Code
 - RAPID
+
+
+
+
+
+
+
+
+
 Ring Analyzer Python Interface for ring-test Data (RAPID)
   
   
