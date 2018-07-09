@@ -148,27 +148,25 @@ A C-863.11 Physik Instrumente Mercury controller and a M-037-DG rotational stage
   - FlyCapture
   
      * FLIR cameras have their own bulit-in software to run the camera
-     * This software is open-source and can be downloaded from "https://www.ptgrey.com/flycapture-sdk"
+     * This software is open-source and can be downloaded from "https://www.ptgrey.com/flycapture-sdk" or "https://www.ptgrey.com/support/downloads"
      * This software can efficiently and automatically change the Exposure Time to avoid saturation in the image but the Gain has to be fixed by the user for a precise/accurate ring test
     
+  - PyCapture
+  
+     * PyCapture is the official Python library, written by the FLIR group, that can be used to control FlyCapture and ultimately the camera using only Python.
+     
+     
+     NOTE: Detailed documentation for both FlyCapture and PyCapture can be found on "https://www.ptgrey.com/flycapture-sdk"
+     
 
 
 ## RAPID
 
+Ring Analyzer Python Interface for ring-test Data or RAPID is the post processing section of the Big FFW. In general, Ring test analysis is an essential way of checking efficiency and quality of optical fibers but the process can be very time consuming. By RAPID graphical user interface, you can analyze and visualize the output ring images of the fiber significantly faster than traditional techqniques.
 
+The RAPID can also be used indepentely from the Big FFW with the following interface:
 
-
-Ring Analyzer Python Interface for ring-test Data (RAPID)
-  
-  
-# RAPID
-Ring Analyzer Python Interface for ring-test Data (RAPID)
- 
- # Motivation
- Ring test analysis is an essential way of checking efficiency and quality of optical fibers but the process can be very time consuming. By RAPID graphical user interface, you can analyze and visualize the output ring images of the fiber by only inputting the output image of the test.
- 
-
-
+![](Fig0.png)
 
 # There are 5 variables in the main page of the interface:
 * Name = Name of the image file
@@ -199,7 +197,6 @@ Ring Analyzer Python Interface for ring-test Data (RAPID)
 
 # Output
 
-![](Fig0.png)
 
 * Different functions are as following:
 
