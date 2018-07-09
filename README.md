@@ -58,10 +58,10 @@ cd The-Big-FFW
 
 - An optical fibre
 - Pointgrey Camera
-* Specs: 
-* Model: Grasshoper 2
-* Resolution 2448 x 2048
-* Megapixels: 5.0 MP
+  * Specs: 
+  * Model: Grasshoper 2
+  * Resolution 2448 x 2048
+  * Megapixels: 5.0 MP
 
 ![](Camera1.png)
 
