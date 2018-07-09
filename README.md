@@ -116,7 +116,7 @@ Below is a description of the built-in layers of the Big FFW:
 This is the interface user will use to perform a ring test. This GUI requires six variables to run:
 
   - Degree Range
-     * The stages rotates with respect to the user's input degrees (the input format is "#,", i.e. 5,6,7)
+     * The stage rotates with respect to the user's input degrees (the input format is "#,", i.e. 5,6,7)
      
   - Rotational Angle
      * Each image rotates during the post processing steps so possible non-uniformities in the image can be taken into account.
@@ -135,8 +135,12 @@ This is the interface user will use to perform a ring test. This GUI requires si
 
 ## Stage Code
 
-  - A s
-     * A
+A C-863.11 Physik Instrumente Mercury controller and a M-037-DG rotational stage were used in this system. The python libraries for operating the controller and stage provided by the Physik Instrumente. 
+
+  - Connection
+ 
+     * PI Mercury (C-863.11) can communicate with PC via USB connection or RS-232 cable. 
+  - 
 
 
 ## Camera Code
