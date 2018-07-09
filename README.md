@@ -63,7 +63,7 @@ cd The-Big-FFW
 --- Resolution 2448 x 2048
 --- Megapixels: 5.0 MP
 
-![](Camera.png=600x600)
+![scale=0.5](Camera.png)
 
 - PC (with an appropriate operating systemm)
 - Source of light (ideally an LED)
