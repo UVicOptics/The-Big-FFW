@@ -200,33 +200,33 @@ The RAPID can also be used indepentely from the Big FFW with the following inter
 
 * Different functions are as following:
 
-"Display":
+### "Display":
 
 ![](FIG1.png)
 
 ![](FIG2.png)
 
-"Slice":
+### "Slice":
 
 ![](FIG3.png)
 
-"Comparison":
+### "Comparison":
 
 ![](FIG4.png)
 
-"Peak Finder":
+### "Peak Finder":
 
 ![](FIG5.png)
 
-"FWHM, Radius, FRD Finder":
+### "FWHM, Radius, FRD Finder":
 
 ![](FIG6.png)
 
-"Calibrate - FWHM, Radius, FRD Finder":
+### "Calibrate - FWHM, Radius, FRD Finder":
 
 ![](FIG7.png)
 
-"Show All" + other results:
+### "Show All" + other results:
 
 ![](Results.png)
 
