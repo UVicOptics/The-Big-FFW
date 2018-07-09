@@ -27,7 +27,7 @@ They have been tested with python-2.7, some dependencies are not python-3 ready 
 - pipython (for PI controller)
 
 
-This software is compatible with Linux (preferred Ubuntu), Mac OS (10.11<, Preferred High Sierra) and Windows (7<)
+This software is compatible with Linux (preferred Ubuntu), Mac OS (10.11<, preferred High Sierra) and Windows (preferred Windows 10)
 
 All those packages can be installed with Pip.
 
@@ -50,18 +50,26 @@ curl https://bootstrap.pypa.io/get-pip.py | python
 
 You can then clone this repository:
 ```
-git clone https://github.com/UVicOptics/fibreOptics-tester.git
-cd fibreOptics-tester
+git clone https://github.com/UVicOptics/The-Big-FFW.git
+cd The-Big-FFW
 ```
 
 ## Hardware:
 
 - An optical fibre
 - Pointgrey Camera
+-- Specs: 
+--- Model: Grasshoper 2
+--- Resolution 2448 x 2048
+--- Megapixels: 5.0 MP
+
+![](Camera.png)
+
 - PC (with an appropriate operating systemm)
 - Source of light (ideally an LED)
 - A collimator
 - Multiple mounts and rotating stages
+
 - PI MicroController
 
  
