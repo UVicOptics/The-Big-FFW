@@ -115,6 +115,15 @@ Below is a description of the built-in layers of the Big FFW:
 
 This is the interface user will use to perform a ring test. This GUI requires six variables to run:
 
+  - Degree Range
+     * The stages rotates with respect to the user's input degrees (the input format is "#,", i.e. 5,6,7)
+     
+  - Rotational Angle
+     * Each image rotates during the post processing steps so possible non-uniformities in the image can be taken into account.
+     
+  - Gain
+     *
+
 
 
 
