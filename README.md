@@ -85,7 +85,7 @@ NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper mo
 ![](Controller.png)
 
  
-# The big FFW GUI:
+# The Big FFW GUI:
 
 ![](GUI.jpg)
 .
@@ -111,7 +111,9 @@ Below is a description of the built-in layers of the Big FFW:
 - RAPID
 
 
+## FiTS Analyzer
 
+This is the interface user will use to perform a ring test.
 
 
 
