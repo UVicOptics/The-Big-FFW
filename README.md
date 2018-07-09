@@ -24,7 +24,7 @@ They have been tested with python-2.7, some dependencies are not python-3 ready 
 - imutils
 - PyCapture2 (for FLIR cameras)
 - time
-- pipython (for PI controller)
+- Pipython (for PI controller)
 
 
 This software is compatible with Linux (preferred Ubuntu), Mac OS (10.11<, preferred High Sierra) and Windows (preferred Windows 10)
@@ -58,16 +58,19 @@ cd The-Big-FFW
 
 - An optical fibre
 - Pointgrey Camera
--- Specs: 
---- Model: Grasshoper 2
---- Resolution 2448 x 2048
---- Megapixels: 5.0 MP
+* Specs: 
+* Model: Grasshoper 2
+* Resolution 2448 x 2048
+* Megapixels: 5.0 MP
 
 ![scale=0.1](Camera1.png)
 
 - PC (with an appropriate operating systemm)
 - Source of light (ideally an LED)
 - A collimator
+
+![scale=0.1](Controller.png)
+
 - Multiple mounts and rotating stages
 
 - PI MicroController
