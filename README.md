@@ -122,7 +122,7 @@ This is the interface user will use to perform a ring test. This GUI requires si
      * Each image rotates during the post processing steps so possible non-uniformities in the image can be taken into account.
      
   - Gain
-     *
+     * An appropriate gain value has to be inserted  
 
 
 
