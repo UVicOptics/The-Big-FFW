@@ -67,13 +67,13 @@ cd The-Big-FFW
 - PC (with an appropriate operating systemm)
 - Source of light (ideally an LED)
 - A collimator
-
-![](Collimator.png)
-
   * Thorlab collimator
   * F810SMA-1064
   * NA = 0.25
   * f = 36.60 mm
+
+![](Collimator.png)
+
 
 - Multiple mounts and rotating stages
 NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper motor drive. Different PI rotation stage with equivalent features can be used.
