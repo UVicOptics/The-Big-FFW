@@ -226,7 +226,11 @@ The RAPID can also be used indepentely from the Big FFW with the following inter
 
 ![](FIG7.png)
 
-"Show All":
+"Show All" + other results:
 
-![](fig8.png)
+![](Results.png)
+
+Comparison between The Big FFW's results and manual results using independant methods:
+
+![](Resid.png)
 
