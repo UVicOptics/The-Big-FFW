@@ -58,7 +58,6 @@ cd The-Big-FFW
 
 - An optical fibre
 - Pointgrey Camera
-  * Specs: 
   * Model: Grasshoper 2
   * Resolution 2448 x 2048
   * Megapixels: 5.0 MP
@@ -71,7 +70,13 @@ cd The-Big-FFW
 
 ![](Collimator.png)
 
+  * Thorlab collimator
+  * F810SMA-1064
+  * NA = 0.25
+  * f = 36.60 mm
+
 - Multiple mounts and rotating stages
+NOTE: In this work we used 
 
 - PI MicroController
 
