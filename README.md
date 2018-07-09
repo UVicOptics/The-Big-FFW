@@ -140,14 +140,17 @@ A C-863.11 Physik Instrumente Mercury controller and a M-037-DG rotational stage
   - Connection
  
      * PI Mercury (C-863.11) can communicate with PC via USB connection or RS-232 cable. 
-  - 
-
+     
+     NOTE: The serial number of the USB has to be updated for each new USB.
 
 ## Camera Code
 
-  - A
-     * A
-
+  - FlyCapture
+  
+     * FLIR cameras have their own bulit-in software to run the camera
+     * This software is open-source and can be downloaded from "https://www.ptgrey.com/flycapture-sdk"
+     * This software can efficiently and automatically change the Exposure Time to avoid saturation in the image but the Gain has to be fixed by the user for a precise/accurate ring test
+    
 
 
 ## RAPID
