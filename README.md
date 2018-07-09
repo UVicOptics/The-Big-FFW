@@ -27,7 +27,9 @@ Required packages:
 - pipython (for PI controller)
 
 
-All those packages can be installed with pip.
+This software is compatible with Linux (preferred Ubuntu), Mac OS (10.11<, Preferred High Sierra) and Windows (7<)
+
+All those packages can be installed with Pip.
 
 ```
 pip install <package>...<package>
@@ -35,6 +37,15 @@ pip install <package>...<package>
 If you have the Python anaconda distribution, you can (except for `vos`) also install the packages not already installed with
 ```
 conda install <package>...<package>
+```
+
+Note: You can install Pip on Windows with:
+
+```
+curl https://bootstrap.pypa.io/ez_setup.py | python
+```
+```
+curl https://bootstrap.pypa.io/get-pip.py | python
 ```
 
 You can then clone this repository:
