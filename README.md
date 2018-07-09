@@ -4,7 +4,7 @@ This system allows for the testing of optical fibres for a fully automated optom
  
 They have been tested with python-2.7, some dependencies are not python-3 ready yet.
 
-Required packages:
+## Required packages:
 
 - matplotlib
 - numpy
@@ -53,6 +53,17 @@ You can then clone this repository:
 git clone https://github.com/UVicOptics/fibreOptics-tester.git
 cd fibreOptics-tester
 ```
+
+## Hardware:
+
+- An optical fibre
+- Pointgrey Camera
+- PC (with an appropriate operating systemm)
+- Source of light (ideally an LED)
+- A collimator
+- Multiple mounts and rotating stages
+- PI MicroController
+
  
 # The big FFW GUI:
 
