@@ -135,7 +135,7 @@ This is the interface user will use to perform a ring test. This GUI requires si
 
 ## Stage Code
 
-  - A
+  - A s
      * A
 
 
