@@ -76,9 +76,12 @@ cd The-Big-FFW
   * f = 36.60 mm
 
 - Multiple mounts and rotating stages
-NOTE: In this work we used 
+NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper motor drive. Different PI rotation stage with equivalent features can be used.
 
 - PI MicroController
+
+![](Controller.png)
+  * C-863 Mercury Servo Controller
 
  
 # The big FFW GUI:
