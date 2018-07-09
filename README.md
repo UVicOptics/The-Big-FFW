@@ -113,7 +113,9 @@ Below is a description of the built-in layers of the Big FFW:
 
 ## FiTS Analyzer
 
-This is the interface user will use to perform a ring test.
+This is the interface user will use to perform a ring test. This GUI requires six variables to run:
+
+
 
 
 
