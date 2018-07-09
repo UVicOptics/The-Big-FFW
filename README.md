@@ -63,13 +63,13 @@ cd The-Big-FFW
 * Resolution 2448 x 2048
 * Megapixels: 5.0 MP
 
-![scale=0.1](Camera1.png)
+![](Camera1.png)
 
 - PC (with an appropriate operating systemm)
 - Source of light (ideally an LED)
 - A collimator
 
-![scale=0.1](Controller.png)
+![](Collimator.png)
 
 - Multiple mounts and rotating stages
 
