@@ -87,6 +87,11 @@ NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper mo
  
 # The Big FFW GUI:
 
+- FiTS Analyzer
+- Stage Code
+- Camera Code
+- RAPID
+
 ![](Figures/GUI.jpg)
 .
 .
@@ -104,11 +109,6 @@ Below is a description of the built-in layers of the Big FFW:
 .
 .
 .
-
-- FiTS Analyzer
-- Stage Code
-- Camera Code
-- RAPID
 
 
 ## FiTS Analyzer
