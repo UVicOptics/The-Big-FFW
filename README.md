@@ -91,15 +91,18 @@ NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper mo
 - Stage Code
 - Camera Code
 - RAPID
+
 .
 .
 .
 .
 .
 .
+
 Below is a description of the built-in layers of the Big FFW:
 
 ![](Figures/FFW.jpg)
+
 .
 .
 .
