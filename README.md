@@ -1,8 +1,8 @@
 # The Big FFW
-This system allows for the testing of optical fibres for a fully automated optomechanical test facility. Each fibres are individually tested using the ring test method.
+The Big FiTS Fibre Wrapper (FFW) allows for the testing of optical fibres for a fully automated optomechanical test facility. Each fibres are individually tested using the ring test method.
 
  
-They have been tested with python-2.7, some dependencies are not python-3 ready yet.
+The Big FFW's codes have been tested with python-2.7, some dependencies are not python-3 ready yet.
 
 ## Required packages:
 
