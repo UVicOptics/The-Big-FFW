@@ -72,7 +72,7 @@ cd The-Big-FFW
   * NA = 0.25
   * f = 36.60 mm
 
-![](Collimator.png)
+![](Figures/Collimator.png)
 
 
 - Multiple mounts and rotating stages
@@ -82,12 +82,12 @@ NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper mo
 - PI MicroController
    * C-863 Mercury Servo Controller
 
-![](Controller.png)
+![](Figures/Controller.png)
 
  
 # The Big FFW GUI:
 
-![](GUI.jpg)
+![](Figures/GUI.jpg)
 .
 .
 .
@@ -96,7 +96,7 @@ NOTE: In this work we used PI Rotation Stage (M-037 DG), with 2 phase stepper mo
 .
 Below is a description of the built-in layers of the Big FFW:
 
-![](FFW.jpg)
+![](Figures/FFW.jpg)
 .
 .
 .
@@ -166,7 +166,7 @@ Ring Analyzer Python Interface for ring-test Data or RAPID is the post processin
 
 The RAPID can also be used indepentely from the Big FFW with the following interface:
 
-![](Fig0.png)
+![](Figures/Fig0.png)
 
 # There are 5 variables in the main page of the interface:
 * Name = Name of the image file
@@ -202,35 +202,35 @@ The RAPID can also be used indepentely from the Big FFW with the following inter
 
 ### "Display":
 
-![](FIG1.png)
+![](Figures/FIG1.png)
 
-![](FIG2.png)
+![](Figures/FIG2.png)
 
 ### "Slice":
 
-![](FIG3.png)
+![](Figures/FIG3.png)
 
 ### "Comparison":
 
-![](FIG4.png)
+![](Figures/FIG4.png)
 
 ### "Peak Finder":
 
-![](FIG5.png)
+![](Figures/FIG5.png)
 
 ### "FWHM, Radius, FRD Finder":
 
-![](FIG6.png)
+![](Figures/FIG6.png)
 
 ### "Calibrate - FWHM, Radius, FRD Finder":
 
-![](FIG7.png)
+![](Figures/FIG7.png)
 
 ### "Show All" + other results:
 
-![](Results.png)
+![](Figures/Results.png)
 
 Comparison between The Big FFW's results and manual results using independant methods:
 
-![](Resid.png)
+![](Figures/Resid.png)
 
