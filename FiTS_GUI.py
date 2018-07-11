@@ -232,7 +232,7 @@ root.mainloop()
 #
 #######################################
 #
-# The general structure of this python script is influenced  http://www.tkdocs.com/tutorial/firstexample.html
+# The general structure of this python script is influenced by http://www.tkdocs.com/tutorial/firstexample.html
 #
 #######################################
 
