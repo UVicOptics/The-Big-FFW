@@ -182,7 +182,7 @@ RAPID can also be used independently  from the Big FFW with the following interf
 
 * Angle = Rotates the input image by the angle entered by the user in degrees
 
-* Angle_Num = This is different from the "Angle" above. This the number of angles the program will select at random and input those as "Angle".
+* Angle_Num = This is different from the "Angle" above. This is the number of angles the program will select at random and input those as "Angle".
 
 # There are 7 functions on the main page of the interface:
 * Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
