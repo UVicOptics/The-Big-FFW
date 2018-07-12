@@ -184,14 +184,14 @@ RAPID can also be used independently  from the Big FFW with the following interf
 
 * Angle_Num = This is different from the "Angle" above. This the number of angles the program will select at random and input those as "Angle".
 
-# There are 7 functions in the main page of the interface:
+# There are 7 functions on the main page of the interface:
 * Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
 
 * Slice: Plots Intensity Vs Pixel number graph based in the chosen slice (from Dim1 and Dim2).
 
 * Comparison: Compares the raw data with the smoothed version of it.
 
-* Peak Finer: Finds peaks of the plot generated from Slice functions.
+* Peak Finder: Finds peaks of the plot generated from Slice functions.
 
 * FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the gaussians and calculates the Full Width Half Maximum (FWHM) and also the Focal Ratio Degradation (FRD) of the ring. 
 
