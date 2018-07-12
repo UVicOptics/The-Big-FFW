@@ -197,7 +197,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * Calibrate: Rotates the image several times with random angles and determines FWHM, Diameter, and FRD of the system. Standard deviations are determined from these measurments.
 
-* Show All - Recalculates the FRD from all the previous measurements and plots FRD vs angle. Note that for this function the "Name" variable becomes the directory name for all the measurements (i.e. all measurements need to be in a same directory).
+* Show All - Recalculates the FRD from all the previous measurements and plots FRD vs angle. Note that for this function the "Name" variable becomes the directory name for all the measurements (i.e. all measurements need to be in the same directory).
 
 # Run the code
          -python RingTest.py
@@ -205,7 +205,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 # Output
 
 
-* Different functions are as following:
+* Different functions have the following outputs:
 
 ### "Display":
 
