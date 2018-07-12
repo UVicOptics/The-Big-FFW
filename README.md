@@ -189,7 +189,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * Slice: Plots Intensity Vs Pixel number graph based on the chosen slice (from Dim1 and Dim2).
 
-* Comparison: Compares the raw data with a smoothed version of it (currently the default smoothing factor is 20, the future versions will have better control on the smoothing process).
+* Comparison: Compares the raw data with a smoothed version of it. Currently the default smoothing factor is 20, future versions will allow the user to optimize the smoothing process.
 
 * Peak Finder: Finds peaks of the plot generated from Slice functions.
 
