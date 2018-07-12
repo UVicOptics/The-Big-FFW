@@ -235,13 +235,16 @@ The seven functions in RAPID produce the following outputs:
 
 ### "Show All":
 
-![](Figures/Results.png)
+![](Figures/Results1.png)
 
 # In addition:
 
 The angles can be converted to the f/# as 1/2tan(angle).
 
-Comparison between The Big FFW's results and manual results from the UVic's FiTS teamm using independent software (such as LaseView):
+![](Figures/Results2.png)
+
+
+Comparison between The Big FFW's results and manual results (i.e. from measurement by the UVic's FiTS team using independent software such as LaseView):
 
 ![](Figures/Resid.png)
 
