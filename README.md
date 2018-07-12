@@ -239,9 +239,9 @@ The seven functions in RAPID produce the following outputs:
 
 # In addition:
 
-The angles can be converted to the F/# as 1/2tan(angle)
+The angles can be converted to the f/# as 1/2tan(angle).
 
-Comparison between The Big FFW's results and manual results using independant methods:
+Comparison between The Big FFW's results and manual results from the UVic's FiTS teamm using independant software (such as LaseView):
 
 ![](Figures/Resid.png)
 
