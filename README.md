@@ -187,7 +187,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 # There are 7 functions in RAPID:
 * Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
 
-* Slice: Plots Intensity Vs Pixel number graph based on the chosen slice (from Dim1 and Dim2).
+* Slice: Plots Intensity vs Pixel number graph based on the chosen slice (from Dim1 and Dim2).
 
 * Comparison: Compares the raw data with a smoothed version of it. Currently the default smoothing factor is 20, future versions will allow the user to optimize the smoothing process.
 
@@ -197,7 +197,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * Calibrate: Rotates the image several times with random angles and determines FWHM, Diameter, and FRD of the system. Standard deviations are determined from these measurments.
 
-* Show All - Recalculates the FRD from all the previous measurements and plots FRD Vs angle. Note that for this function the "Name variable becomes the directory name for all the measurements.
+* Show All - Recalculates the FRD from all the previous measurements and plots FRD vs angle. Note that for this function the "Name" variable becomes the directory name for all the measurements (i.e. all measurements need to be in a same directory).
 
 # Run the code
          -python RingTest.py
