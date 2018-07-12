@@ -195,7 +195,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the distribution of the light (gaussian), calculates the Full Width Half Maximum (FWHM) of the distirbution. The Focal Ratio Degradation (FRD) of the ring is calculated as the ratio of 1/e^2 over diameter (see figure below). 
 
-* Calibrate: Rotates the image several times with random angles and determines FWHM, Diameter, and FRD of the system. Standard deviation can be found from these several measurments.
+* Calibrate: Rotates the image several times with random angles and determines FWHM, Diameter, and FRD of the system. Standard deviations are determined from these measurments.
 
 * Show All - Determines FRD of multiple rings in multiple files and plots a graph of FRD Vs angle of all rings (note that for this function, name of the directory should be entered in the corresponding space).
 
