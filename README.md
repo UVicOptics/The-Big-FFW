@@ -205,7 +205,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 # Output
 
 
-* Different functions have the following outputs:
+* The seven functions in RAPID produce the following outputs:
 
 ### "Display":
 
