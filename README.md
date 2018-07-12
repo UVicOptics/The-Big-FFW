@@ -121,7 +121,7 @@ This is the interface user will use to perform a ring test.
 # This GUI requires six variables:
 
   - Degree Range
-     - The stage rotates with respect to the user's input degrees (the input format is "#,", i.e. 5,6,7)
+     - The stage rotates according to the user's input indegrees (the input format is "#,", i.e. 5,6,7)
      
   - Rotational Angle
      - Each image rotates during the post processing steps so possible non-uniformities in the image can be taken into account.
