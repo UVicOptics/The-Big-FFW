@@ -175,7 +175,7 @@ RAPID can also be used independently  from the Big FFW with the following interf
 
 ![](Figures/Fig0.png)
 
-# There are 5 variables in the main page of the interface:
+# There are 5 variables on the main page of the interface:
 * Name = Name of the image file
 
 * Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle [for the test data in "All" directory, you can use 600 pix and 610 pix to cover the diameter]
