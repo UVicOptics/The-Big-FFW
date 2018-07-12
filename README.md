@@ -229,7 +229,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 ![](Figures/FIG6.png)
 
-### "Calibrate - FWHM, Radius, FRD Finder":
+### "Calibrate":
 
 ![](Figures/FIG7.png)
 
