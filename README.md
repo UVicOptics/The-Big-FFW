@@ -175,7 +175,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 ![](Figures/Fig0.png)
 
-# There are 5 variables on the main page of the interface:
+# There are 5 variables in RAPID:
 * Name = Name of the image file
 
 * Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle [for the test data in "All" directory, you can use 600 pix and 610 pix to cover the diameter]
@@ -184,7 +184,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * Angle_Num = This is different from the "Angle" above. This is the number of angles the program will select at random and input those as "Angle".
 
-# There are 7 functions on the main page of the interface:
+# There are 7 functions in RAPID:
 * Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
 
 * Slice: Plots Intensity Vs Pixel number graph based on the chosen slice (from Dim1 and Dim2).
