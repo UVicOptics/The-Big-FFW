@@ -239,7 +239,7 @@ The seven functions in RAPID produce the following outputs:
 
 # In addition:
 
-The angles can be converted to the f/# as 1/2tan(angle).
+The angles can be converted to the f/# as 1/2tan(angle). Note that the error bar is added by hand.
 
 ![](Figures/Results2.png)
 
