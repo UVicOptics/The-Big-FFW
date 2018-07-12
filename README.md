@@ -169,7 +169,7 @@ A C-863.11 Physik Instrumente (PI) Mercury controller and a M-037-DG rotational 
 
 ## RAPID
 
-RAPID (Ring Analyzer Python Interface for ring-test Data) is the post processing section of the Big FFW. In general, Ring test analysis is an essential way of checking efficiency and quality of optical fibers but the process can be very time consuming. Using the RAPID graphical user interface, you can analyze and visualize the output ring images of the fiber significantly faster than traditional techqniques.
+RAPID (Ring Analyzer Python Interface for ring-test Data) is the post processing section of the Big FFW. The Ring test analysis checks efficiency and quality of optical fibers, but the process can be very time consuming. Using the RAPID graphical user interface, you can analyze and visualize the output ring images from the fiber faster than traditional techniques.
 
 The RAPID can also be used indepentely from the Big FFW with the following interface:
 
