@@ -184,16 +184,16 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * Angle_Num = This is different from the "Angle" above. This is the number of angles the program will select at random and input those as "Angle".
 
-# There are 7 functions in RAPID:
+# There are 7 f in RAPID:
 * Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
 
 * Slice: Plots Intensity Vs Pixel number graph based on the chosen slice (from Dim1 and Dim2).
 
 * Comparison: Compares the raw data with a smoothed version of it. Currently the default smoothing factor is 20, future versions will allow the user to optimize the smoothing process.
 
-* Peak Finder: Finds peaks in the plot generated from the Slice functions.
+* Peak Finder: Finds peaks in the plot generated from the Slice function.
 
-* FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the gaussians and calculates the Full Width Half Maximum (FWHM) and also the Focal Ratio Degradation (FRD) of the ring. 
+* FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the distribution of the light (gaussian), calculates the Full Width Half Maximum (FWHM) of the distirbution. The Focal Ratio Degradation (FRD) of the ring is calculated as ratio of the diameter and 1/e$^2$ of the ring. 
 
 * Calibrate - FWHM, Radius, FRD Finder: Rotates the image several times with random angles and determines FWHM, Diameter and FRD Finder of the system (this time with standard deviation from several measurments).
 
