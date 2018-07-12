@@ -57,7 +57,7 @@ cd The-Big-FFW
 ## Hardware:
 
 - An optical fibre
-- Pointgrey Camera
+- Pointgrey Camera (parent company FLIR)
   * Model: Grasshoper 2
   * Resolution 2448 x 2048
   * Megapixels: 5.0 MP
