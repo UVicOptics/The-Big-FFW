@@ -191,7 +191,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * Comparison: Compares the raw data with a smoothed version of it. Currently the default smoothing factor is 20, future versions will allow the user to optimize the smoothing process.
 
-* Peak Finder: Finds peaks of the plot generated from Slice functions.
+* Peak Finder: Finds peaks in the plot generated from the Slice functions.
 
 * FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the gaussians and calculates the Full Width Half Maximum (FWHM) and also the Focal Ratio Degradation (FRD) of the ring. 
 
