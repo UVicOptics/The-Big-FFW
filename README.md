@@ -114,25 +114,25 @@ Below is a description of the built-in layers of the Big FFW:
 
 ## FiTS Analyzer
 
+This is the interface user will use to perform a ring test. This GUI requires six variables to run:
 
 ![](Figures/GUI.jpg)
 
-This is the interface user will use to perform a ring test. This GUI requires six variables to run:
 
-  - Degree Range
+  1- Degree Range
      * The stage rotates with respect to the user's input degrees (the input format is "#,", i.e. 5,6,7)
      
-  - Rotational Angle
+  2- Rotational Angle
      * Each image rotates during the post processing steps so possible non-uniformities in the image can be taken into account.
      
-  - Gain
+  3- Gain
      * An appropriate gain value has to be inserted to help FlyCapture balance the brightness of the rings as the incident angle increases.
      
      NOTE: FlyCapture software can change the exposure time automatically as the incident angle changes.
 
-  - Number of images
-  - Image path
-  - Output path
+  4- Number of images
+  5- Image path
+  6- Output path
   
      NOTE: The default code uses a fixed path for both Image and Output paths. The exact path can be changed by the user at any time.
 
