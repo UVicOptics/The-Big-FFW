@@ -154,7 +154,7 @@ A C-863.11 Physik Instrumente (PI) Mercury controller and a M-037-DG rotational 
 
   - FlyCapture
   
-     * FLIR cameras have their own bulit-in software to run the camera
+     * The pointgrey (FLIR) cameras have their own bulit-in software to run the camera
      * This software is open-source and can be downloaded from "https://www.ptgrey.com/flycapture-sdk" or "https://www.ptgrey.com/support/downloads"
      * This software can efficiently and automatically change the Exposure Time to avoid saturation in the image but the Gain has to be fixed by the user for a precise/accurate ring test
     
