@@ -142,7 +142,7 @@ This GUI requires six variables to run:
 
 ## Stage Code
 
-A C-863.11 Physik Instrumente Mercury (PI) controller and a M-037-DG rotational stage were used in this system. The python libraries for operating the controller and stage provided by the Physik Instrumente. 
+A C-863.11 Physik Instrumente (PI) Mercury controller and a M-037-DG rotational stage were used in this system. The python libraries for operating the controller and stage provided by PI. 
 
   - Connection
  
