@@ -180,9 +180,9 @@ RAPID can also be used independently  from the Big FFW with the following interf
 
 * Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle [for the test data in "All" directory, you can use 600 pix and 610 pix to cover the diameter]
 
-* Angle = Rotates the input image with respect to the angle the user enters
+* Angle = Rotates the input image by the angle entered by the user in degrees
 
-* Angle_Num = Rotates the image this many times with respect to the random angles
+* Angle_Num = This is different from the "Angle" above. This the number of angles the program will select at random and input those as "Angle".
 
 # There are 7 functions in the main page of the interface:
 * Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
