@@ -193,7 +193,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 * Peak Finder: Finds peaks in the plot generated from the Slice function.
 
-* FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the distribution of the light (gaussian), calculates the Full Width Half Maximum (FWHM) of the distirbution. The Focal Ratio Degradation (FRD) is calculated as ratio of the diameter and 1/e^2 of the ring. 
+* FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the distribution of the light (gaussian), calculates the Full Width Half Maximum (FWHM) of the distirbution. The Focal Ratio Degradation (FRD) is calculated as the ratio of the 1/e^2 and diameter of the ring (see figure below). 
 
 * Calibrate - FWHM, Radius, FRD Finder: Rotates the image several times with random angles and determines FWHM, Diameter and FRD Finder of the system (this time with standard deviation from several measurments).
 
