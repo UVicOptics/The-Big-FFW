@@ -187,7 +187,7 @@ RAPID can also be used independently  from the Big FFW with the following interf
 # There are 7 functions on the main page of the interface:
 * Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
 
-* Slice: Plots Intensity Vs Pixel number graph based in the chosen slice (from Dim1 and Dim2).
+* Slice: Plots Intensity Vs Pixel number graph based on the chosen slice (from Dim1 and Dim2).
 
 * Comparison: Compares the raw data with the smoothed version of it.
 
