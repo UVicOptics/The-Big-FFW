@@ -118,7 +118,7 @@ This is the interface user will use to perform a ring test.
 
 ![](Figures/GUI.jpg)
 
-# This GUI requires six variables to run:
+# This GUI requires six variables:
 
   - Degree Range
      - The stage rotates with respect to the user's input degrees (the input format is "#,", i.e. 5,6,7)
