@@ -205,7 +205,7 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 # Output
 
 
-* The seven functions in RAPID produce the following outputs:
+The seven functions in RAPID produce the following outputs:
 
 ### "Display":
 
@@ -233,9 +233,13 @@ RAPID is invisible to the Big FFW user. However it can be used independently fro
 
 ![](Figures/FIG7.png)
 
-### "Show All" + other results:
+### "Show All":
 
 ![](Figures/Results.png)
+
+# In addition:
+
+The angles can be converted to the F/# as 1/2tan(angle)
 
 Comparison between The Big FFW's results and manual results using independant methods:
 
